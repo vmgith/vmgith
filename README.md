@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studing in UTN Sede San Rafael
 - 🌱 I’m currently learning programming languages
-- 📫 How to reach me: amontenegro@gmail.com
+- 📫 How to reach me: vivy.montenegro@gmail.com
   
 ![imagen](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)![imagen](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 
